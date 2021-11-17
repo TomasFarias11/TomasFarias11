@@ -9,14 +9,23 @@ I am a Full Stack Developer student in SoyHenry with an inclination in Back-end 
 ### What i've learned so far... 📚📚
 
 🔸JavaScript
+
 🔸Express
+
 🔸HTML
+
 🔸CSS
+
 🔸React
+
 🔸Redux
+
 🔸NodeJS
+
 🔸Sequelize
+
 🔸SQL
+
 
 I'm hoping to learn even more technologies, but these are what i have been working in my projects.
 
