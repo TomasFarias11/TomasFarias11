@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there! 👋 
 
-<!--
-**TomasFarias11/TomasFarias11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am i? 
 
-Here are some ideas to get you started:
+My name is Tomas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack Developer student in SoyHenry with an inclination in Back-end development. I am a curious and passionate person, who wants to dedicate to the Developers world, where i can improve my skills and learn.
+
+### What i've learned so far...
+
+- JavaScript
+- Express
+- HTML
+- CSS
+- React
+- Redux
+- NodeJS
+- Sequelize
+- SQL
+
+I'm hoping to learn even more technologies, but these are what i have been working in my projects.
+
+How you can reach me? ----> farias.tomas@outlook.com / https://www.linkedin.com/in/tomasalejandrofariasdev/
+
+
+
+
