@@ -4,7 +4,7 @@
 
 My name is Tomas!
 
-I am a Full Stack Developer student in SoyHenry with an inclination in Back-end development. I am a curious and passionate person, who wants to dedicate to the Developers world, where i can improve my skills and learn.
+I am a Full Stack Developer student in SoyHenry. I am a curious and passionate person, who wants to dedicate to the Developers world, where i can improve my skills and learn.
 
 ### What i've learned so far... 📚📚
 
