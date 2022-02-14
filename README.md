@@ -16,6 +16,16 @@ I am a Full Stack Developer who studied in SoyHenry. I am a curious and passiona
 
 🔸CSS
 
+🔸Bootsrap
+
+🔸Vite.js
+
+🔸SCRUM
+
+🔸Heroku
+
+🔸Vercel
+
 🔸React
 
 🔸Redux
